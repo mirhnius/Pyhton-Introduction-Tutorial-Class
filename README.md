@@ -1,8 +1,7 @@
 # Pyhton Introduction Tutorial Class
 
-### *Hi, this is Amithossein Nazeri, I am the Engineering Probability & Statistics Course Teacher Assistant*
  
- this respositry is provided for EPS course student to be familiar with Python before their Computer Assignments.
+ This respositry is provided for students to be familiar with the basics of Python.
  
  Please also check following references:
  
